@@ -1,8 +1,0 @@
-C:\Users\Aaliya Sheikh\source\repos\BasicProgtram\obj\Debug\BasicProgtram.csproj.AssemblyReference.cache
-C:\Users\Aaliya Sheikh\source\repos\BasicProgtram\obj\Debug\BasicProgtram.csproj.SuggestedBindingRedirects.cache
-C:\Users\Aaliya Sheikh\source\repos\BasicProgtram\obj\Debug\BasicProgtram.csproj.CoreCompileInputs.cache
-C:\Users\Aaliya Sheikh\source\repos\BasicProgtram\bin\Debug\BasicProgtram.exe.config
-C:\Users\Aaliya Sheikh\source\repos\BasicProgtram\bin\Debug\BasicProgtram.exe
-C:\Users\Aaliya Sheikh\source\repos\BasicProgtram\bin\Debug\BasicProgtram.pdb
-C:\Users\Aaliya Sheikh\source\repos\BasicProgtram\obj\Debug\BasicProgtram.exe
-C:\Users\Aaliya Sheikh\source\repos\BasicProgtram\obj\Debug\BasicProgtram.pdb
